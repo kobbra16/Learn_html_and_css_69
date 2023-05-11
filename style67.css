@@ -1,0 +1,19 @@
+#wrapper {
+    width: 900px;
+    margin: 0px auto;
+}
+
+#header {
+    border: 1px solid black;
+    min-height: 200px;
+}
+
+#content {
+    border: 1px solid black;
+    min-height: 400px;
+}
+
+#footer {
+    border: 1px solid black;
+    min-height: 200px;
+}
